@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dem-gio/static/css/main.00caa70b.css",
+    "main.js": "/dem-gio/static/js/main.3d6b87ae.js",
+    "index.html": "/dem-gio/index.html",
+    "main.00caa70b.css.map": "/dem-gio/static/css/main.00caa70b.css.map",
+    "main.3d6b87ae.js.map": "/dem-gio/static/js/main.3d6b87ae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00caa70b.css",
+    "static/js/main.3d6b87ae.js"
+  ]
+}
